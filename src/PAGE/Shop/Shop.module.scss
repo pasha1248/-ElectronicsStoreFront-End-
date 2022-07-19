@@ -1,0 +1,7 @@
+/** @format */
+.container {
+  margin: 30px;
+  display: grid;
+  grid-template-columns: 25% 70%;
+  gap: 2rem;
+}
